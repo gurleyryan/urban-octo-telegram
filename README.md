@@ -1,26 +1,12 @@
-# <Your-Project-Title>
+# Module 1 Challenge
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+Refactored the existing code for this webpage to optimize it for accessibility. The hypothetical marketing agency wanted a codebase that follows accessibility standards so that their own site would be optimized for search engines. This included semantic HTML elements in the source code, logical structuring of the HTML elements, accessible alt attributes for the icon and image elements, sequential ordering of the heading attributes, and a concise, descriptive title in the title element. Additionally, the code was improved so that the links all function correctly, the CSS selectors and properties were consolidated and organized to follow semantic structure, and the CSS file is properly commented.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
@@ -32,11 +18,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
+Please refer to the LICENSE in the repo.
