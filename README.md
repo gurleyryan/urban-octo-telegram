@@ -14,7 +14,7 @@ N/A
 
 Links at the top of the page bring you to their respective sections.
 
-![Alt Text](assets\WebsiteScreenshot.png "Website Screenshot")
+![Alt Text](assets/WebsiteScreenshot.png "Website Screenshot")
 
 ## Credits
 
