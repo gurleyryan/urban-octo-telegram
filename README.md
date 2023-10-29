@@ -10,11 +10,11 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+[Link to website](https://gurleyryan.github.io/urban-octo-telegram/)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+Links at the top of the page bring you to their respective sections.
 
-![alt text](assets/images/screenshot.png)
+![Website Screenshot](assets\Website Screenshot.png)
 
 ## Credits
 
